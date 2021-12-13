@@ -1,0 +1,13 @@
+.website-uniswap{
+    height: 100vh;
+    overflow: hidden;
+
+}
+.website{
+    width: 100%;
+    height: 120vh;
+    overflow: hidden;
+    position: fixed;
+    border: none;
+    top: -50px;
+}
